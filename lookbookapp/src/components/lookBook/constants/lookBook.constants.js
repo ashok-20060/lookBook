@@ -18,7 +18,7 @@ export const LOOK_BOOK_LIST_DATA = [
             },
             {
                 mediaId: '1_3',
-                src:  '/images/image1_3.jpg',
+                src:  '/images/IMAGE1_3.jpg',
                 alt: 'image1_3',
                 isVideo: false,
             },

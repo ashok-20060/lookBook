@@ -14,5 +14,5 @@ Look:- Each look is a product with images and videos and reviews
 
 # test command: npm start
 # build command npm run build
-# deployed app link - 
+# deployed app link - https://look-book-app.vercel.app/ 
 
